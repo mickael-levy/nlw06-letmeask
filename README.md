@@ -1,78 +1,50 @@
-<h1 align="center">Letmeask 💬</h1>
+letmeask 💬
+Create live Q&A rooms. Get your audience's questions answered in real-time
 
+🟣 Technologies used
+ReactJS + Typescript
+Styled-components
+styled-react-modal
+firebase
+react-router-dom
+🟪 Features added to the project
+dark theme
+Page not found/Not Found
+Route to display all rooms
+Count of total questions, likes and answered questions
+Direct redirect to admin route after creating room
+Create a Toast component from scratch to use at different times
+Display a closed room, but without allowing the creation of questions and like
+Allow user to log out from the admin page and when viewing an open room
+Allowing to order questions by the amount of likes on the room page
+And other small improvements
+‼️ Prerequisites
+Node.js
+Yarn, NPM or other javascript package manager
+✔️ How to use
+Clone the repository
 
-<p align="center">
-  Crie salas de Q&amp;A ao-vivo. Tire as suas dúvidas da sua audiência em tempo-real
-</p>
-
-## :purple_circle: Tecnologias usadas
-
-- [ReactJS](https://reactjs.org/) + [Typescript](https://www.typescriptlang.org/)
-- [Styled-components](https://styled-components.com/)
-- [Styled-react-modal](https://github.com/AlexanderRichey/styled-react-modal#readme)
-- [Firebase](https://firebase.google.com/)
-- [react-router-dom](https://reactrouter.com/web/guides/quick-start)
-
-## :purple_square: Recursos adicionados ao projeto
-
-- Tema escuro
-- Página não encontrada/Not Found
-- Rota para exibir todas as salas
-- Contagem do total de perguntas, likes e perguntas respondidas
-- Redirecionamento direto para a rota *admin* após criar a sala
-- Criar um component **Toast** do zero para usar em diversos momentos
-- Exibir uma sala fechada, mas sem permitir criação de perguntas e dar like
-- Permitir o usuário deslogar na página *admin* e ao visualizar uma sala aberta
-- Permitindo ordernar perguntas pela quantidade de likes na página da sala
-- E outras pequenas melhorias
-
-## :bangbang: Pré-requisitos
-
-- Node.js
-- Yarn, NPM ou outro gerenciador de pacotes javascript
-
-## :heavy_check_mark: Como utilizar
-
-Clone o repositório
-
-```bash
 git clone https://github.com/mickael-levy/nlw06-letmeask.git
 
--- ou com github cli--
+-- or with github cli--
 
 gh repo clone mickael-levy/nlw06-letmeask
-```
+enter the folder
 
-Entre na pasta
-
-```bash
 cd nlw06-letmeask
-```
+install dependencies
 
-Instale as dependências
-
-```bash
 yarn install 
 
--- ou --
+-- or --
 
 npm install
-```
+Fill an .env file with the variables from the .env.example .
 
-Preencha um arquivo *.env* com as variaveis do *.env.example*.
+And start the application
 
-E inicie a aplicação
-
-```bash
 yarn start 
 
--- ou --
+-- or --
 
 npm start
-```
-
----  
-
-<p align="center">
-  Desenvolvido  por <a href="https://github.com/mickael-levy">José Ulisses </a>
-</p>
