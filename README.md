@@ -1,6 +1,5 @@
 <h1 align="center">Letmeask 💬</h1>
 
-![Letmeask](./.github/letmeaskRoom.png)
 
 <p align="center">
   Crie salas de Q&amp;A ao-vivo. Tire as suas dúvidas da sua audiência em tempo-real
@@ -37,11 +36,11 @@
 Clone o repositório
 
 ```bash
-git clone https://github.com/jos3s/nlw06-letmeask.git
+git clone https://github.com/mickael-levy/nlw06-letmeask.git
 
 -- ou com github cli--
 
-gh repo clone jos3s/nlw06-letmeask
+gh repo clone mickael-levy/nlw06-letmeask
 ```
 
 Entre na pasta
@@ -75,5 +74,5 @@ npm start
 ---  
 
 <p align="center">
-  Desenvolvido  por <a href="https://github.com/jos3s">José Ulisses </a>
+  Desenvolvido  por <a href="https://github.com/mickael-levy">José Ulisses </a>
 </p>
