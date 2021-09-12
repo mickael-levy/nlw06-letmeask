@@ -1,14 +1,12 @@
-letmeask 💬
-Create live Q&A rooms. Get your audience's questions answered in real-time
 
-🟣 Technologies used
+# 🟣 Technologies used
 ReactJS + Typescript
 Styled-components
 styled-react-modal
 firebase
 react-router-dom
 
-🟪 Features added to the project
+# 🟪 Features added to the project
 dark theme
 Page not found/Not Found
 Route to display all rooms
@@ -19,11 +17,11 @@ Display a closed room, but without allowing the creation of questions and like
 Allow user to log out from the admin page and when viewing an open room
 Allowing to order questions by the amount of likes on the room page
 And other small improvements
-‼️ Prerequisites
+# ‼️ Prerequisites
 Node.js
 Yarn, NPM or other javascript package manager
 
-✔️ How to use
+# ✔️ How to use
 Clone the repository
 
 git clone https://github.com/mickael-levy/nlw06-letmeask.git
