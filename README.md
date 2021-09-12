@@ -7,6 +7,7 @@ Styled-components
 styled-react-modal
 firebase
 react-router-dom
+
 🟪 Features added to the project
 dark theme
 Page not found/Not Found
@@ -21,6 +22,7 @@ And other small improvements
 ‼️ Prerequisites
 Node.js
 Yarn, NPM or other javascript package manager
+
 ✔️ How to use
 Clone the repository
 
